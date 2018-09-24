@@ -1,0 +1,9 @@
+UserID,Date,Coins,BuySell,Qty,Value,Total
+mukesh,1-Jan-18,ADA,BUY,100,10,1000
+mukesh,1-Jan-18,TRX,BUY,100,10,1000
+mukesh,1-Jan-18,TRX,BUY,100,12,1200
+mukesh,2-Jan-18,ADA,SELL,-100,11,-1100
+mukesh,2-Jan-18,TRX,SELL,-100,11,-1100
+mukesh,3-Jan-18,ADA,BUY,100,12,1200
+mukesh,3-Jan-18,TRX,SELL,-90,10,-900
+mukesh,4-Jan-18,ADA,SELL,-100,15,-1500
